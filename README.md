@@ -1,2 +1,2 @@
 # Accessibility of Grenery in Tartu
-Project assessin the accessiblity of greenery from each building in Tartu. 
+This project aims to assess the accessibility of greenery(urban parks) from each building in Tartu. 
